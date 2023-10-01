@@ -1,0 +1,174 @@
+[
+    {
+      "productCode": "P01",
+      "name": "iPhone 14 Pro max",
+      "stock": "In Stock",
+      "price": 25000,
+      "company": "Apple Inc.",
+      "category": "Mobile Phones",
+      "image": "/assets/images/iphone_14_promax.jpg"
+    },
+    {
+      "productCode": "P02",
+      "name": "iPhone 14 Pro ",
+      "stock": "Out of Stock",
+      "price": 20000,
+      "company": "Apple Inc.",
+      "category": "Mobile Phones",
+      "image": "/assets/images/iphone_14_pro.jpg"
+    },
+    {
+      "productCode": "P03",
+      "name": "iPhone 14 ",
+      "stock": "In Stock",
+      "price": 18000,
+      "company": "Apple Inc.",
+      "category": "Mobile Phones",
+      "image": "/assets/images/iphone14.jpg"
+    },
+    {
+      "productCode": "P04",
+      "name": "Samsung S22",
+      "stock": "In Stock",
+      "price": 10000,
+      "company": "Samsung",
+      "category": "Mobile Phones",
+      "image": "/assets/images/iphone_14_promax.jpg"
+    },
+    {
+      "productCode": "P05",
+      "name": "Samsung Z Fold",
+      "stock": "Out of Stock",
+      "price": 13600,
+      "company": "Samsung",
+      "category": "Mobile Phones",
+      "image": "/assets/images/iphone_14_pro.jpg"
+    },
+    {
+      "productCode": "P06",
+      "name": "Samsung S9",
+      "stock": "In Stock",
+      "price": 5000,
+      "company": "Samsung",
+      "category": "Mobile Phones",
+      "image": "/assets/images/iphone14.jpg"
+    },
+    {
+      "productCode": "P07",
+      "name": "iPhone 13 Pro max",
+      "stock": "Out of Stock",
+      "price": 14500,
+      "company": "Samsung",
+      "category": "Mobile Phones",
+      "image": "/assets/images/iphone_14_promax.jpg"
+    },
+    {
+      "productCode": "P08",
+      "name": "iPhone 13 Pro ",
+      "stock": "In Stock",
+      "price": 12000,
+      "company": "Samsung",
+      "category": "Mobile Phones",
+      "image": "/assets/images/iphone_14_pro.jpg"
+    },
+    {
+      "productCode": "P09",
+      "name": "iPhone 13",
+      "stock": "In Stock",
+      "price": 19900,
+      "company": "Apple Inc.",
+      "category": "Mobile Phones",
+      "image": "/assets/images/iphone14.jpg"
+    },
+    {
+      "productCode": "P10",
+      "name": "iPhone 11",
+      "stock": "Out of Stock",
+      "price": 10500,
+      "company": "Apple Inc.",
+      "category": "Mobile Phones",
+      "image": "/assets/images/iphone_14_promax.jpg"
+    },
+    {
+      "productCode": "P11",
+      "name": "Ipad Pro",
+      "stock": "In Stock",
+      "price": 7500,
+      "company": "Apple Inc.",
+      "category": "Tablets/ipads",
+      "image": "/assets/images/ipad_pro.jpg"
+    },
+    {
+      "productCode": "P13",
+      "name": "Ipad Mini",
+      "stock": "Out of Stock",
+      "price": 5000,
+      "company": "Apple Inc.",
+      "category": "Tablets/ipads",
+      "image": "/assets/images/ipadmini.jpg"
+    },
+    {
+      "productCode": "P15",
+      "name": "Samsung Galaxy Tab S6 Light",
+      "stock": "In Stock",
+      "price": 3500,
+      "company": "Samsung",
+      "category": "Tablets/ipads",
+      "image": "/assets/images/ipad_air.jpg"
+    },
+    {
+      "productCode": "P17",
+      "name": "Sony Bravia XR A80K",
+      "stock": "In Stock",
+      "price": 55000,
+      "company": "Sony",
+      "category": "TV",
+      "image": "/assets/images/sony_bravia_1.jpg"
+    },
+    {
+      "productCode": "P18",
+      "name": "Sony Bravia 164 cms",
+      "stock": "In Stock",
+      "price": 32000,
+      "company": "Sony",
+      "category": "TV",
+      "image": "/assets/images/sony_bravia_2.jpg"
+    },
+    {
+      "productCode": "P19",
+      "name": "Samsung 108cm",
+      "stock": "In Stock",
+      "price": 30000,
+      "company": "Samsung",
+      "category": "TV",
+      "image": "/assets/images/samsung_tv.jpg"
+    },
+    {
+      "productCode": "P20",
+      "name": "Samsung 80cm",
+      "stock": "Out of Stock",
+      "price": 20000,
+      "company": "Samsung",
+      "category": "TV",
+      "image": "/assets/images/sony_bravia_1.jpg"
+    },
+    {
+      "productCode": "P21",
+      "name": "Dell Inspiron 3511",
+      "stock": "In Stock",
+      "price": 30000,
+      "company": "Dell",
+      "category": "Laptop",
+      "image": "/assets/images/dell.jpg"
+    },
+    {
+      "productCode": "P22",
+      "name": "HP Pavilion 14 AMD Ryzen 5",
+      "stock": "Out of Stock",
+      "price": 20000,
+      "company": "HP",
+      "category": "Laptop",
+      "image": "/assets/images/hp.jpg"
+    }
+  ]
+  
